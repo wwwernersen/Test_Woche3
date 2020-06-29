@@ -9,3 +9,7 @@ bla bla bla abera cadabera.
 * sub2
 * sub3
 * sub4
+
+Comment of myCharacter:
+> Here's my comment.
+> I have nothing to say.

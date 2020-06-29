@@ -13,3 +13,5 @@ bla bla bla abera cadabera.
 Comment of myCharacter:
 > Here's my comment.
 > I have nothing to say.
+
+<img src="https://cdn.pixabay.com/photo/2015/06/08/15/02/pug-801826_960_720.jpg"/>
